@@ -1,0 +1,8 @@
+{
+    "registration_date_braze": "Test for registration_date_braze",
+    "ccs.CandyPins.Generic.Reminder3.Push.Body.Personalised": "Test for Candy, dots.",
+    "ccs_CandyPins_Generic_Reminder3_Push_Body_Personalised": "Test for Candy, underscore.",
+    "ccs_CandyPins_Generic_Reminder3_Push_Body_Personalised_copy": "🤩 Not long now! You're {{custom_attribute.${Pins_current_progression}}}\/135 into the Candy Pin set. Keep going! 💪",
+    "ccs_CandyPins_Generic_Reminder3_Push_Body_Personalised_copy_two": "🤩 Not long now! You're {{custom_attribute.${Pins/current_progression}}}/135 into the Candy Pin set. Keep going! 💪",
+      "ccs_CandyPins_Generic_Reminder3_Push_Body_Personalised_copy_three": "🤩 Not long now! You're {{custom_attribute.${Pins\/current_progression}}}\/135 into the Candy Pin set. Keep going! 💪"
+}
