@@ -6078,7 +6078,7 @@
     "20250819_MKT_CSA_Extension_Reminder_IAM_A__CTA": "Nimm teil",
     "20250610_MKT_CSA_Activation_Email_B__Disclaimer_copy": "Investitionen sind mit Risiken verbunden. Es gelten die Allgemeinen Geschäftsbedingungen für {{Kindergeld}}.",
     "20250617_MKT_CSA_Consent_Email_B__Content2_copy": "Nach Erhalt einer Einladung müssen sie sich lediglich registrieren und ihre Identität bestätigen.",
-    "Flo_Test": "This text: {{{content_blocks.${CountryFilterExample}}} - de new<br><br>Also:{{custom_attribute.${user_preferred_language}}}",
+    "Flo_Test": "This text: {{content_blocks.${CountryFilterExample}}} - de new<br><br>Also:{{custom_attribute.${user_preferred_language}}}",
     "20250827_TXS_ONB_PSD_Renewal_Email_A__Bullet_Nr1": "Gib deine persönlichen Informationen an.",
     "20250827_TXS_ONB_PSD_Renewal_Email_A__Bullet_Nr2": "Bestätige deine Identität, indem du ein gültiges Ausweisdokument scannst und ein Selfie machst.",
     "20250827_TXS_ONB_PSD_Renewal_Email_A__Content1": "du hast die Registrierung bei Trade Republic begonnen. Führe die folgenden Schritte aus, um dein Konto zu eröffnen:",
