@@ -6581,5 +6581,10 @@
     "20250915_MKT_Private_Markets_Launch_Migration_Push_C__Body_P1": "On every euro invested in Private Markets. Benefit from:\n12% target return with top tier fund managers such as Apollo and EQT.\nIncreased diversification with hidden champions.\nNo extra fees. You get the same deals as institutional investors.\nActivate your {COUNTRY} IBAN now to get started. ",
     "20250915_MKT_Private_Markets_Launch_Migration_Push_C__CTA_P1": "Activate",
     "20250915_MKT_Private_Markets_Launch_Migration_IAM_C__Body": "On every euro invested in Private Markets.",
-    "20250915_MKT_Private_Markets_Launch_Migration_IAM_C__Title": "7 days left for 1% bonus"
+    "20250915_MKT_Private_Markets_Launch_Migration_IAM_C__Title": "7 days left for 1% bonus",
+    "ccs_CandyPins_Generic_Reminder3_Push_Body_Personalised": "Test for Candy, underscore.",
+    "ccs_CandyPins_Generic_Reminder3_Push_Body_Personalised_copy": "🤩 Not long now! You're {{custom_attribute.${Pins_current_progression}}}\/135 into the Candy Pin set. Keep going! 💪",
+    "ccs_CandyPins_Generic_Reminder3_Push_Body_Personalised_copy_two": "🤩 Not long now! You're {{custom_attribute.${Pins/current_progression}}}/135 into the Candy Pin set. Keep going! 💪",
+    "ccs_CandyPins_Generic_Reminder3_Push_Body_Personalised_copy_three": "🤩 Not long now! You're {{custom_attribute.${Pins\/current_progression}}}\/135 into the Candy Pin set. Keep going! 💪",
+    "key_with_a_link": "You can visit our example website by clicking this <a href=\"https://example.com/path/to/resource\" class=\"text-blue-600 hover:text-blue-800 underline font-medium\">link</a>."
 }
